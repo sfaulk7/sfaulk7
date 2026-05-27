@@ -1,5 +1,5 @@
 ## Game Programmer
-### Student at AIE-Laffayette
+### Student at AIE-Lafayette
 
 <!--
 **sfaulk7/sfaulk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
